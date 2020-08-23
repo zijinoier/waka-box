@@ -2,7 +2,7 @@ name: Test waka
 on:
   push:
     branches:
-    - main
+    - master
 jobs:
   update-gist:
     runs-on: ubuntu-latest
